@@ -1,5 +1,5 @@
-Vegetable,Calories,Calories,Serving size,Potassium mg,Vitamin A %DV,Vitamin C %DV
-Asparagus,20,20,5 Spears,230,10,15
-Carror,30,30,"1 of 7"" long",250,110,10
-Cucumber,10,10,1/3 Medium,140,4,10
-Onion,45,45,1 Medium,190,0,20
+Vegetable,Calories,Serving size,Potassium mg,Vitamin A %DV,Vitamin C %DV
+Asparagus,20,5 Spears,230,10,15
+Carror,30,"1 of 7"" long",250,110,10
+Cucumber,10,1/3 Medium,140,4,10
+Onion,45,1 Medium,190,0,20
